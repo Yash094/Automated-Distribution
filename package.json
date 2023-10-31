@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^4.0.9",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.2"
+  },
+  "name": "spilt-contract-script",
+  "version": "1.0.0",
+  "description": "A simple script to automate distribution in the spilt contract on a daily basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yash094",
+  "license": "ISC"
+}
