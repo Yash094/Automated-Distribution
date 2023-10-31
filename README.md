@@ -1,3 +1,8 @@
+# DISCLAIMER
+
+This code is for educational use only. If you are unsure of its suitability for production, please seek expert guidance.
+
+
 # SPILT CONTRACT DISTRIBUTOR
 
 A simple script to automate distribution in the spilt contract on a daily basics (off-chain)
