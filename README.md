@@ -25,4 +25,4 @@ A simple script to automate distribution in the spilt contract on a daily basics
 
 ## CONTACT
 
-If you need any help with the setup shoot a dm at discord - yash094
+If you need any help with the setup shoot a dm at discord - yash094 / yashjoisar
