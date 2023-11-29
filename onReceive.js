@@ -39,13 +39,6 @@ async function Distribute() {
     console.log(txResult);
   });
 
-  // for token distribution use the distributeToken function
-  // const txResult = await contract.distributeToken("{{token_contract_address}}");
-
-  // console the result
 }
 
-// schedule a cron job to run daily at mid night at check if the balance is more than 0 if yes distribute the funds
-cron.schedule("0 0 0 * * *", async () => {
-  await Distribute();
-});
+Distribute()
