@@ -10,7 +10,9 @@
   "description": "A simple script to automate distribution in the spilt contract on a daily basics",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "daily": "node index.js",
+    "start": "node index.js",
+    "onreceive": "node onReceive.js"
   },
   "author": "Yash094",
   "license": "ISC"
