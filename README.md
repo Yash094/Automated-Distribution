@@ -10,8 +10,6 @@
  
  ## ⚠️ Disclaimer
 
-**Use of the Raffle Application**
-
 This code is for educational use only. If you are unsure of its suitability for production, please seek expert guidance.
 
 <details open="open">
