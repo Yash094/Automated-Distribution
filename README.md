@@ -46,12 +46,11 @@ Follow these steps to set up the project:
 
 1. Rename .env.example to .env
 2. Fill in the details in the .env file
+3. Fill in the chainId and contract address on line 15.
 3. npm install (to install all the dependecies)
-4. There are 2 script avaialble
-   1. index.js - This script will run daily and check for funds in your wallet and distribute,
+4. run index.js - This script will run daily and check for funds in your wallet and distribute,
    To use this run `npm run start or npm run daily`
-   2. onReceive.js - This script will distrubute funds as soon as payment is received in the spilt contract,
-   to use this run `npm run onreceive`
+
 
 ## 🛠️ Requirements
 

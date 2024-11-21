@@ -1,9 +1,9 @@
 {
   "type": "module",
   "dependencies": {
-    "@thirdweb-dev/sdk": "^4.0.9",
     "dotenv": "^16.3.1",
-    "node-cron": "^3.0.2"
+    "node-cron": "^3.0.2",
+    "thirdweb": "^5.68.0"
   },
   "name": "spilt-contract-script",
   "version": "1.0.0",
@@ -11,8 +11,7 @@
   "main": "index.js",
   "scripts": {
     "daily": "node index.js",
-    "start": "node index.js",
-    "onreceive": "node onReceive.js"
+    "start": "node index.js"
   },
   "author": "Yash094",
   "license": "ISC"
